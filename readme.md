@@ -8,7 +8,7 @@ res = balancer(c4, True)
 
 print(res)
 
-结果如下：
+结果如下：  
 需要配平的方程
     KMnO4+H2SO4+FeSO4=Fe2(SO4)3+MnSO4+K2SO4+H2O
 提取反应物和生成物
