@@ -47,3 +47,8 @@ print(res)
 配平好的方程 
 
     2KMnO4 + 8H2SO4 + 10FeSO4 = 5Fe2(SO4)3 + 2MnSO4 + K2SO4 + 8H2O  
+
+### 使用GUI
+非常简单，但是还有些bug.
+
+![GUI](https://raw.githubusercontent.com/lemodd/Chemical_Equation_Balancer/master/GUI.png)
