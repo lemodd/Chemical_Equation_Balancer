@@ -4,6 +4,8 @@
 
 ###直接调用balancer()函数
 
+c4 = "CaCl2 + AgNO3 = Ca(NO3)2 + AgCl"
+
 res = balancer(c4, True)
 
 print(res)
