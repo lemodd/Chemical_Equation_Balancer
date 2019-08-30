@@ -1,8 +1,9 @@
-### 项目简介
+## 项目简介
 
 配平化学方程式
 
-###直接调用balancer()函数
+## 使用方法
+### 1.直接调用balancer()函数
 
 c4 = "KMnO4+H2SO4+FeSO4=Fe2(SO4)3+MnSO4+K2SO4+H2O"
 
