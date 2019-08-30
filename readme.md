@@ -4,7 +4,7 @@
 
 ###直接调用balancer()函数
 
-c4 = "CaCl2 + AgNO3 = Ca(NO3)2 + AgCl"
+c4 = "KMnO4+H2SO4+FeSO4=Fe2(SO4)3+MnSO4+K2SO4+H2O"
 
 res = balancer(c4, True)
 
