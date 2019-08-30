@@ -2,8 +2,10 @@
 
 配平化学方程式
 
-直接调用balancer()函数
+###直接调用balancer()函数
+
 res = balancer(c4, True)
+
 print(res)
 
 结果如下：
