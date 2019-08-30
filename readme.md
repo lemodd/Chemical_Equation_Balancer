@@ -3,7 +3,7 @@
 配平化学方程式
 
 ## 使用方法
-### 1.直接调用balancer()函数
+### 1. 直接调用balancer()函数
 
 c4 = "KMnO4+H2SO4+FeSO4=Fe2(SO4)3+MnSO4+K2SO4+H2O"
 
@@ -48,7 +48,7 @@ print(res)
 
     2KMnO4 + 8H2SO4 + 10FeSO4 = 5Fe2(SO4)3 + 2MnSO4 + K2SO4 + 8H2O  
 
-### 使用GUI
+### 2. 使用GUI
 非常简单，但是还有些bug.
 
 ![GUI](https://raw.githubusercontent.com/lemodd/Chemical_Equation_Balancer/master/GUI.png)
